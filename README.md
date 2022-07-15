@@ -8,11 +8,7 @@ parser1.py can calculate up to two numbers, each with only one digit input.<br>
 
 <h2>Example of Addition</h2>
 ```
-print($ python parser1.py
-[1] 式を入力してください
-[2] 1+1
-[3] 2)
-
+print($ python parser1.py<br>[1] 式を入力してください<br>[2] 1+1<br>[3] 2)
 ```
 
 <h2>Example of Subtraction</h2>
